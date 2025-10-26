@@ -1,0 +1,8 @@
+name.firstName,name.lastName,age,address.line1,address.line2,address.city,address.state,gender,profession,company.name,company.department
+Rohit,Prasad,35,A-563 Rakshak Society,New Pune Road,Pune,Maharashtra,male,Engineer,Infosys,Technology
+Sneha,Patel,28,21/B Neelkanth Apt,MG Road,Mumbai,Maharashtra,female,Data Analyst,TCS,Analytics
+Amit,Verma,19,12 Green Villa,Station Road,Ahmedabad,Gujarat,male,Student,,Education
+Priya,Sharma,45,14 Sunrise Tower,Main Street,Delhi,Delhi,female,Manager,Accenture,Operations
+Karan,Joshi,62,9 Lotus Garden,Church Street,Bangalore,Karnataka,male,Consultant,Wipro,Consulting
+Meera,Mehta,33,Flat 4B Crystal Heights,VIP Road,Surat,Gujarat,female,Designer,Adobe,Creative
+neha,Mehta,83,Flat 4B Crystal Heights,VIP Road,Surat,Gujarat,female,Designer,Adobe,Creative
